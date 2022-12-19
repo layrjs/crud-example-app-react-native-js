@@ -1,5 +1,7 @@
 # CRUD Example App (React Native)
 
+> **This Layr example app is deprecated.**
+
 A simple example showing how to build a full-stack CRUD app with Layr and React Native.
 
 ## Install
